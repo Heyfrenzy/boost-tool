@@ -1,0 +1,6 @@
+1) Create a Discord Bot
+2) Add a Redirect => http://localhost:8080
+3) Fill out Bot Token, Secret & ID in main.py
+4) Add Bot to your Server
+5) Put Boost-Tokens in your tokens.txt file
+6) Start main.py
