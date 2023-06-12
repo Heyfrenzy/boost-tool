@@ -4,3 +4,7 @@
 4) Add Bot to your Server
 5) Put Boost-Tokens in your tokens.txt file
 6) Start main.py
+
+▸ Any issues or questions?
+  ▸ Contact me on Discord!
+    ▸ .gg/xdmichi
